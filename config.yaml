@@ -1,0 +1,15 @@
+# DeepSeek API (Step 2 才用，现在填占位符)
+deepseek:
+  api_key: "your-api-key-here"
+  base_url: "https://api.deepseek.com"
+  model: "deepseek-chat"
+
+# 服务器配置 (Step 3 部署时用)
+server:
+  ip: "127.0.0.1"
+  port: 8501
+
+# 飞书机器人 (Step 3 部署时用)
+feishu:
+  webhook: ""
+  secret: ""
